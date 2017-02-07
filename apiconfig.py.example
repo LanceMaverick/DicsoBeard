@@ -1,0 +1,5 @@
+#skybeard API setup
+skb_key = '' #the skybeard api key
+default_chat = '' #telegram chat id
+url = 'http://localhost:8000' #address for where skybeard is hosted
+
